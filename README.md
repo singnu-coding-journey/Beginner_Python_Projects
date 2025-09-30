@@ -62,6 +62,6 @@ python celsius_fahrenheit_converter.py
 
     GitHub: singnu-coding-journey
 
-Email: your_email@example.com
+Email: singnucodingjourney@gmail.com
 
 ✨ Thanks for visiting! Any feedback or guidance is greatly appreciated! 🙏
