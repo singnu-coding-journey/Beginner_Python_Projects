@@ -8,12 +8,12 @@ I’m always open to **feedback or guidance**!
 
 ## 🐍 Projects
 
-`celsius_fahrenheit_converter.py` – Convert Celsius ↔ Fahrenheit 🌡️  
-`circle_calculator.py` – Area & perimeter of a circle ⚪  
-`basic_math_operations.py` – Sum, difference, product, quotient ➕➖✖️➗  
-`check_even_odd.py` – Check if a number is even or odd 🔢  
-`voting_eligibility.py` – Check voting eligibility ✅  
-`largest_of_three_numbers.py` – Find the largest number 🔝  
+`01_celsius_fahrenheit_converter.py` – Convert Celsius ↔ Fahrenheit 🌡️  
+`02_circle_calculator.py` – Area & perimeter of a circle ⚪  
+`03_basic_math_operations.py` – Sum, difference, product, quotient ➕➖✖️➗  
+`04_check_even_odd.py` – Check if a number is even or odd 🔢  
+`05_voting_eligibility.py` – Check voting eligibility ✅  
+`06_largest_of_three_numbers.py` – Find the largest number 🔝  
 `multiples_3_5.py` – Print numbers divisible by 3 or 5  
 `count_vowels_consonants.py` – Count vowels & consonants 🅰️🔤  
 `multiplication_table.py` – Multiplication table (1–10) ✖️  
