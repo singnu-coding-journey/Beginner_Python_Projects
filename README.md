@@ -20,7 +20,7 @@ I’m always open to **feedback or guidance**!
 `10_is_prime.py` – Check if a number is prime  
 `11_factorial.py` – Factorial of a number  
 `12_fibonacci.py` – Generate Fibonacci sequence  
-`14_safe_calculator.py` – Handles division by zero & invalid input ➗❌  
+`13_safe_calculator.py` – Handles division by zero & invalid input ➗❌  
 `15_valid_integer_input.py` – Ask for valid integer input  
 `16_math_practice.py` – Square root, power, factorial, quadratic roots  
 `17_dice_roll_simulator.py` – Dice roll 🎲  
